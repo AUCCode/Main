@@ -2,6 +2,7 @@
 
 Simple list sorting algorithim | Bubble Sort
 Written by RSimon for the AUC Code Club
+
 """
 
 list_of_numbers = [ 1, 4, 2, 56, -50, 32, 100, -200, 40 ] # creates a list variable with a set of unordered numbers
