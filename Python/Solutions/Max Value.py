@@ -2,6 +2,7 @@
 
 Max Value finding algorithim | Linear Search
 Written by RSimon for the AUC Code Club
+
 """
 
 
