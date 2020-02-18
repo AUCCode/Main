@@ -1,2 +1,12 @@
-# python
-Solutions and Topic Discussions to Any of Our Python Projects
+# AUC Code
+
+The Offical Github account of the Archimedean Upper Conservatory (AUC) Code Club.
+
+Here you will find some of the code we cover in the club, including:
+
+- Python
+- Arduino
+- C/C++
+- Java
+
+
