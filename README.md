@@ -2,7 +2,7 @@
 
 The Offical Github account of the Archimedean Upper Conservatory (AUC) Code Club.
 
-Here you will find some of the code we cover in the club, including:
+Here you will find some of the code, and topics, we cover in the club, including:
 
 - Python
 - Arduino
