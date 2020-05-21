@@ -3,3 +3,4 @@ a.out
 .vs
 .gitattributes
 CppProperties.json
+.vscode
