@@ -9,7 +9,7 @@ Written By RSimon for the AUC Code Club
 int x = 2; // Integers, stores integer values
 char a = 'A'; // Character, stores a single letter or character
 bool val = true; // Boolean, stores a truth value, either true or false
-float y = 3.141592659; // Floating point number, generally used to store decimals
+float y = 3.141592659f; // Floating point number, generally used to store decimals
 
 // Math Operators
 
